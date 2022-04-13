@@ -1,0 +1,76 @@
+{
+    "shop": [
+      {
+        "id": 1,
+        "address": "Calle Juan Martín",
+        "type": "frutería",
+        "nombre": "Lola Castro Frutas",
+        "latitude": 37.880273,
+        "longitude": -4.792098
+      },
+      {
+        "id": 2,
+        "address": "Calle Pepe Cruz",
+        "type": "supermercado",
+        "nombre": "Ultramarinos Lolo Castro",
+        "latitude": 37.862323,
+        "longitude": -4.77812
+      },
+      {
+        "id": 3,
+        "address": "Avenida de la Cruz",
+        "type": "pescadería",
+        "nombre": "Pescados El Boquerón",
+        "latitude": 37.856273,
+        "longitude": -4.776992
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "manzanas",
+        "shopId": 1
+      },
+      {
+        "id": 2,
+        "name": "peras",
+        "shopId": 1
+      },
+      {
+        "id": 3,
+        "name": "escoba",
+        "shopId": 2
+      },
+      {
+        "id": 4,
+        "name": "detergente",
+        "shopId": 2
+      }
+    ],
+    "product": [{
+
+      "name": "Samsung Galaxy",
+      
+      "category": "electronics"
+      
+      }, {
+      
+      "name": "Motorola V3",
+      
+      "category": "electronics"
+      
+      }, {
+      
+      "name": "Iphone 12",
+      
+      "category": "electronics"
+      
+      }, {
+      
+      "name": "Skippy",
+      
+      "category": "grocery store"
+      
+      }]
+  }
+  

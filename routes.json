@@ -1,0 +1,7 @@
+{
+    "/": "/",
+    "/product/encontrados": "/product",
+    "/product/encontrados/:name": "/product?name=:name",
+    "/product/sugeridos": "/product",
+    "/product/sugeridos/:category": "/product?category=:category&_limit=2"
+  }
